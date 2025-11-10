@@ -1,0 +1,24 @@
+{
+  "name": "Personal CMS",
+  "description": "Personal content management system for private use",
+  "theme": "neutral",
+  "logo": {
+    "text": "Personal CMS"
+  },
+  "navbar": {
+    "links": []
+  },
+  "footer": {
+    "links": []
+  },
+  "seo": {
+    "metatags": {},
+    "indexing": "navigable"
+  },
+  "contextual": {
+    "options": [
+      "copy",
+      "view"
+    ]
+  }
+}
